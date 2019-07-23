@@ -1,8 +1,8 @@
-<p align="center">
-  <a href="http://alda.io">
-    <img src="alda-logo.png" alt="alda logo">
-  </a>
+# Alda documentation site
 
+> This is a work in progress. Carry on.
+
+<p align="center">
   <h2 align=center>a music programming language for musicians</h2>
 
   <p align="center">
