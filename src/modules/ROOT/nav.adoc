@@ -1,0 +1,10 @@
+* xref:index.adoc[Home]
+* Section 1
+** xref:foo/bar.adoc[bar]
+** xref:foo/baz.adoc[baz]
+** xref:foo/quux.adoc[quux]
+* Section 2
+** xref:bar/foo.adoc[foo]
+** xref:bar/baz.adoc[baz]
+** xref:bar/quux.adoc[quux]
+* xref:faq.adoc[FAQ]

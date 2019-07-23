@@ -1,0 +1,4 @@
+= TODO
+
+* organize all this stuff I copied from the alda-lang/alda repo into modules
+* use documentation issues as guidance re: organization

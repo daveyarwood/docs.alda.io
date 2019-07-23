@@ -1,0 +1,12 @@
+site:
+  title: Documentation
+  url: https://docs.alda.io
+  start_page: master@alda::index.adoc
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+content:
+  sources:
+  - url: .
+    start_path: src

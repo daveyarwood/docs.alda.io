@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+rootdir="$(dirname $0)/.."
+
+rm -rf "$rootdir/build/"
+
+antora site.yml
